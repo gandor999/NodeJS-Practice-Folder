@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> parent of 4cbee8c (Commit again)
 const fs = require('fs');
 const path = require('path');
 
@@ -66,12 +62,3 @@ process.on('uncaughtException', err => {
 })
 
 
-<<<<<<< HEAD
-// Add comment for practice git revert
-
-// Add another dummy comment
-=======
->>>>>>> parent of 44963a4 (Add CRUD for file system)
-=======
-// Add comment for practice git revert
->>>>>>> parent of 4cbee8c (Commit again)
