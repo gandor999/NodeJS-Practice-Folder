@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 const fs = require('fs');
 const path = require('path');
@@ -65,3 +66,5 @@ process.on('uncaughtException', err => {
 // Add comment for practice git revert
 
 // Add another dummy comment
+=======
+>>>>>>> parent of 44963a4 (Add CRUD for file system)
