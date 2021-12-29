@@ -41,8 +41,11 @@ fs.appendFile(path.join(__dirname, 'New-Content.txt'), `\n\nThis is added conten
 })
 
 
-
-
+// Delete
+// fs.unlink(path.join(__dirname, 'New-Content.txt'), (err) => {
+// 	if (err) throw err;
+// 	console.log('Delete operation complete')
+// })
 
 
 // Shows the asynchornous nature of node.js
