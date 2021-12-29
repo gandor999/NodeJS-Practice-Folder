@@ -42,11 +42,6 @@ fs.appendFile(path.join(__dirname, 'New-Content.txt'), `\n\nThis is added conten
 
 
 
-// Delete Operation
-// fs.unlink(path.join(__dirname, 'New-Content.txt'), err => {
-// 	if (err) throw err;
-// 	console.log('Delete complete')
-// })
 
 
 
